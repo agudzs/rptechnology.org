@@ -1,9 +1,0 @@
-<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 299 300" width="847" height="850">
-	<title>Снимок экрана 2022-08-18 в 23</title>
-	<defs>
-		<image  width="299" height="300" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASsAAAEsAgMAAADmz32fAAAAAXNSR0IB2cksfwAAAAlQTFRFAAAA/8FV8e/0mDG8NgAAAAN0Uk5TAP8AaVI5rAAAAHVJREFUeJzt07EJgDAQQNG4WZbQItNkiYyQJlNaG0QLscjxXndw/OLgUgIAAAAAAMLb9mfHaC8bWUtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLK25rzAK2+nX8dC8tLa2fW2X6/aqlpaWlpaW1YAsAAAAAAAC4dQIadcoX0MSFCAAAAABJRU5ErkJggg=="/>
-	</defs>
-	<style>
-	</style>
-	<use id="Background" href="#img1" x="0" y="0"/>
-</svg>
